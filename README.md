@@ -7,7 +7,7 @@
 - 🏢 Estou trabalhando atualmente no grupo **MULTI360**
 - ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.svg`, `.ts`, `.conf`,`.env`
 - 🌍 Sou bem ativo na questão de aprendizado com **Laravel**
-- 💅 Trabalhei anteriormente na :  [NoPingTunnel](https://www.nptunnel.com), [FFX Ssitemas](https://ffxsistemas.com), etc…
+- 💅 Trabalhei anteriormente na :  [NoPingTunnel](https://www.nptunnel.com), [FFX Sistemas](https://ffxsistemas.com),[Localize Dados](https://localizadados.com.br) etc…
 - 🌱 Aprendendo sobre **TS, React, Node**
 - 💬 Pergunte me sobre: **design**, **branding**, **laravel**, **development**, **api development**
 - ⚡️ Fato divertido: Sou um grande Fã de Harry Potter e de animes.
