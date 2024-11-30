@@ -4,10 +4,10 @@
 
 ##### BIO
 
-- 🏢 Estou trabalhando atualmente no grupo **MULTI360**
+- 🏢 Estou trabalhando atualmente como desenvolvedor Senior na **HI**
 - ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.svg`, `.ts`, `.conf`,`.env`
 - 🌍 Sou bem ativo na questão de aprendizado com **Laravel**
-- 💅 Trabalhei anteriormente na :  [NoPingTunnel](https://www.nptunnel.com), [FFX Sistemas](https://ffxsistemas.com),[Localize Dados](https://localizadados.com.br) etc…
+- 💅 Trabalhei anteriormente na :  [NoPingTunnel](https://www.nptunnel.com), [FFX Sistemas](https://ffxsistemas.com),[Localize Dados](https://localizadados.com.br),[GRUPO MULTI360](https://multi360.com.br) etc…
 - 🌱 Aprendendo sobre **TS, React, Node**
 - 💬 Pergunte me sobre: **design**, **branding**, **laravel**, **development**, **api development**
 - ⚡️ Fato divertido: Sou um grande Fã de Harry Potter e de animes.
@@ -38,7 +38,9 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/marcos1495" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mf.santiagoff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos140595@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosfsantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511953558283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
  
