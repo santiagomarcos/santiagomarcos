@@ -26,7 +26,7 @@
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg)" />
+  <img align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg)" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
