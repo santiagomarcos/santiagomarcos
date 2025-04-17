@@ -4,11 +4,11 @@
 
 ##### BIO
 
-- 🏢 Estou trabalhando atualmente como desenvolvedor Senior na **HI**
+- 🏢 Estou trabalhando atualmente como desenvolvedor Senior na **Humanittare Labs**  [HumanittareLabs](https://www.humanittare.com.br)
 - ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.svg`, `.ts`, `.conf`,`.env`
-- 🌍 Sou bem ativo na questão de aprendizado com **Laravel**
+- 🌍 Sou bem ativo na questão de aprendizado com **Laravel**,
 - 💅 Trabalhei anteriormente na :  [NoPingTunnel](https://www.nptunnel.com),[Localize Dados](https://localizadados.com.br),[GRUPO MULTI360](https://multi360.com.br) etc…
-- 🌱 Aprendendo sobre **TS, React, Node**
+- 🌱 Aprendendo sobre **TS, React**
 - 💬 Pergunte me sobre: **design**, **branding**, **laravel**, **development**, **api development**
 - ⚡️ Fato divertido: Sou um grande Fã de Harry Potter e de animes.
 
